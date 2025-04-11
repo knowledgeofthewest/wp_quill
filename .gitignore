@@ -1,0 +1,6 @@
+.next
+.vercel
+script.js
+node_modules
+get_delta.js
+.env
